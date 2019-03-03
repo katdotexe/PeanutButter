@@ -1,2 +1,2 @@
 # PeanutButter
-"Stick to a Plan
+"Stick to a Plan"
